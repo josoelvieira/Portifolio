@@ -1,0 +1,43 @@
+.borda {
+    background: linear-gradient(to bottom, red, black);
+    padding: 1rem;
+    border-radius:50%;
+}
+.deg-270{
+    transform: rotate(270deg);
+}
+.bg-gradient-1 {
+    background: linear-gradient(to right, black, red);
+    padding: 4px;
+    border-radius:50px;
+}
+.borda-esq{
+    border-left: 1px solid white;
+}
+.borda-dir{
+    border-right: 1px solid white;
+}
+.bg-div{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.466), rgba(255, 0, 0, 0.438));
+}
+.title {
+    font-size: 72px;
+    font-weight: bold;
+}
+.title-v {
+    font-size: 72px;
+    font-weight: bold;
+    color: rgba(250, 9, 9, 0.836);
+}
+.bg-fibra{
+    background: url(../img/Carbon_fiber_design_background.jpg);
+}
+.botao{
+    width: 200px;
+}
+.bg-gradient-2 {
+    background: linear-gradient(to right, red,black);
+    padding: 4px;
+    border-radius:50px;
+    width: 215px;
+}
