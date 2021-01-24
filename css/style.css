@@ -27,7 +27,9 @@
 .title-v {
     font-size: 72px;
     font-weight: bold;
-    color: rgba(250, 9, 9, 0.836);
+    background: -webkit-linear-gradient(rgb(8, 8, 8), rgb(248, 2, 2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .bg-fibra{
     background: url(../img/Carbon_fiber_design_background.jpg);
